@@ -33,7 +33,8 @@ A "core-periphery" pattern exists, where the city center enjoys high accessibili
 Ensure all dependencies are installed: pip install osmnx geopandas matplotlib seaborn mapclassify.
 Load the IMD CSV and LSOA GeoJSON files into the /content/ directory. 
 Execute the Jupyter Notebook project1.ipynb.
-
-
-
 Coordinate System: UK National Grid (EPSG:27700) for accurate metric distance calculations.
+
+7.Conclusion & Recommendations：
+
+While poor areas currently enjoy better physical proximity to parks, planners should focus on marginal areas where accessibility lags behind. Future studies should move beyond "straight-line distance" to include facility quality and actual pedestrian networks.
