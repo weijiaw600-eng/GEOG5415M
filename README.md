@@ -40,7 +40,6 @@ A "core-periphery" pattern exists, where the city center enjoys high accessibili
 
 6.How to Run：
 
-Install Libraries: 
 Install the following environments using the terminal or command line:
 
 !pip  install  osmnx
