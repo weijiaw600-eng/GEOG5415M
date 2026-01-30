@@ -22,7 +22,7 @@ Data Processing: pandas, geopandas
 
 Spatial Analysis: osmnx, shapely 
 
-Visualization: matplotlib, seaborn, mapclassify (for choropleth maps) 
+Visualization: matplotlib, seaborn, mapclassify
 
 4.Key Methodology：
 
@@ -40,7 +40,14 @@ A "core-periphery" pattern exists, where the city center enjoys high accessibili
 
 6.How to Run：
 
-Ensure all dependencies are installed: pip install osmnx geopandas matplotlib seaborn mapclassify.
+Install Libraries: 
+Install the following environments using the terminal or command line:
+
+!pip  install  osmnx
+
+!pip install osmnx geopands matplotlib
+
+!pip install mapclassify
 
 Load the IMD CSV and LSOA GeoJSON files into the /content/ directory. 
 
